@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MoreMoviesLesson12</string>
+    <string name="year">year</string>
+    <string name="genre">genre</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter movie title here</string>
+    <string name="GENRE">Genre</string>
+    <string name="enter_genre">Enter movie genre here</string>
+    <string name="YEAR">Year</string>
+    <string name="show_list">Show List</string>
+    <string name="insert">Insert</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="rating">Rating</string>
+    <string name="enter1">Enter year of movie release here</string>
+    <string name="show_PG13">Show all pg13 movies</string>
+    <string name="go_back">Go back</string>
+    <string name="movie_id">Movie ID</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="spinnerItems">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG13</item>
+        <item>NC16</item>
+        <item>M18</item>
+        <item>R21</item>
+    </string-array>
+</resources>
